@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyrooonnn" alt="eyrooonnn" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_eyrooonnn" target="blank"><img src="https://img.shields.io/twitter/follow/eyrooonnn?logo=twitter&style=for-the-badge" alt="_eyrooonnn" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_eyrooonnn" target="blank"><img src="https://img.shields.io/twitter/follow/_eyrooonnn?logo=twitter&style=for-the-badge" alt="_eyrooonnn" /></a> </p>
 
 - 🌱 I’m currently learning **React Native and MERN Stack**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/eyrooonnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eyrooonnn" height="30" width="40" /></a>
+<a href="https://twitter.com/_eyrooonnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_eyrooonnn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aaronjoshuaespinosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaronjoshuaespinosa" height="30" width="40" /></a>
 <a href="https://fb.com/eyrooonnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eyrooonnn" height="30" width="40" /></a>
 <a href="https://www.behance.net/aaronjoshuaespinosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="aaronjoshuaespinosa" height="30" width="40" /></a>
