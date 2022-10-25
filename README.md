@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyrooonnn" alt="eyrooonnn" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/eyrooonnn" target="blank"><img src="https://img.shields.io/twitter/follow/eyrooonnn?logo=twitter&style=for-the-badge" alt="eyrooonnn" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_eyrooonnn" target="blank"><img src="https://img.shields.io/twitter/follow/eyrooonnn?logo=twitter&style=for-the-badge" alt="_eyrooonnn" /></a> </p>
 
 - 🌱 I’m currently learning **React Native and MERN Stack**
 
