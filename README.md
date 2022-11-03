@@ -1,5 +1,5 @@
 # 🦖AJ Espinosa
-A 20 year old aspiring frontend web developer and UI/UX designer from Philippines. Currently studying Bachelor of Science in Computer Science in Cavite State University Main Campus.
+A 20 year old aspiring frontend web developer and UI/UX designer from the Philippines. Currently studying Bachelor of Science in Computer Science in Cavite State University - Main Campus.
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=eyrooonnn&label=Profile%20Views&color=yellow&style=for-the-badge"/>
