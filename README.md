@@ -3,7 +3,7 @@ A 20 year old aspiring frontend web developer and UI/UX designer from Philippine
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=eyrooonnn&label=Profile%20Views&color=yellow&style=for-the-badge"/>
-  <a href="https://twitter.com/_eyrooonnn" target="blank"><img src="https://img.shields.io/twitter/url?label=Follow&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2F_eyrooonnn"/></a>
+  <a href="https://twitter.com/_eyrooonnn" target="blank"><img src="https://img.shields.io/twitter/follow/_eyrooonnn?url?label=Follow&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2F_eyrooonnn"/></a>
   <a href="https://www.facebook.com/eyrooonnn" target="blank"><img src="https://img.shields.io/twitter/url?label=add&logo=facebook&style=for-the-badge&url=https%3A%2F%2Fwww.facebook.com%2Feyrooonnn"/></a>
 </p>
 
