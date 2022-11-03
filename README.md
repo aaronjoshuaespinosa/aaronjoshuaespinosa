@@ -1,5 +1,6 @@
 # AJ Espinosa
-<h3 align="center">An aspiring frontend web developer and UI/UX designer from Philippines</h3>
+#
+A 20 year old aspiring frontend web developer and UI/UX designer from Philippines. Currently studying Bachelor of Science in Computer Science in Cavite State University Main Campus.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyrooonnn" alt="eyrooonnn" /></a> </p>
 
