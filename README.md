@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AJ Espinosa</h1>
 <h3 align="center">An aspiring frontend web developer and UI/UX designer from Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eyrooonnn&label=Profile%20views&color=0e75b6&style=flat" alt="eyrooonnn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eyrooonnn&label=Profile%20Views&color=yellow&style=for-the-badge" alt="eyrooonnn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyrooonnn" alt="eyrooonnn" /></a> </p>
 
