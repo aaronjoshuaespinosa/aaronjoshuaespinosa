@@ -1,5 +1,5 @@
-# 🦖AJ Espinosa
 <img align='center' src="githubBanner.jpg">
+# 🦖Hi I'm AJ Espinosa!
 A 20 year old aspiring frontend web developer and UI/UX designer from the Philippines. Currently studying Bachelor of Science in Computer Science at Cavite State University - Main Campus.
 
 <p>
