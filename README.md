@@ -13,5 +13,5 @@ A 20 year old aspiring frontend web developer and UI/UX designer from the Philip
 
 #
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eyrooonnn&show_icons=true&theme=aura" alt="eyrooonnn" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyrooonnn&show_icons=true&locale=en&layout=compact&theme=aura" alt="eyrooonnn" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aaronjoshuaespinosa&show_icons=true&theme=aura" alt="eyrooonnn" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronjoshuaespinosa&show_icons=true&locale=en&layout=compact&theme=aura" alt="eyrooonnn" /></p>
