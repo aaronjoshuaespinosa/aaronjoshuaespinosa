@@ -7,9 +7,10 @@ A 20 year old aspiring frontend web developer and UI/UX designer from the Philip
   <a href="https://twitter.com/_eyrooonnn" target="blank"><img src="https://img.shields.io/twitter/follow/_eyrooonnn?url?label=Follow&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2F_eyrooonnn"/></a>
 </p>
 
-- 🌱 I’m currently learning **Next JS** and **Tailwind CSS**
-- 🌱 I’m currently learning **new design trends**
-- 📫 How to reach me **aaronjoshua.espinosa@yahoo.com**
+- ✨ Currently improving my skills on **Next JS** and **Tailwind CSS**
+- ✨ Currently learning **new design trends**
+- ✨ Currently working on **Web Applications**
+- 📧 Reach me at **aaronjoshua.espinosa@yahoo.com**
 
 #
 
