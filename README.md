@@ -12,7 +12,15 @@ A 21 year old Front-End Web Developer and Graphic Designer from the Philippines.
 - ✨ Currently working on **Web Applications**
 - 📧 Reach me at **aaronjoshua.espinosa@yahoo.com**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<br>
+<h2>Dev Tools</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,vercel,js,ts,html,css,sass,git)](https://skillicons.dev)
+
+<br>
+<h2>Design & Graphics Tools</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,blender)](https://skillicons.dev)
 
 #
 
