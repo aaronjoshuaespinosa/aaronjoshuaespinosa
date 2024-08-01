@@ -8,7 +8,7 @@ A 22 year old Front-end Web Developer and Graphic Designer from the Philippines.
 </p>
 
 - ✨ Currently improving my skills on **Next JS** and **Tailwind CSS**
-- ✨Currently learning **Remix**
+- ✨ Currently learning **Remix**
 - ✨ Currently learning **new design trends**
 - ✨ Currently working on **Web Applications**
 - 📧 Reach me at **aaronjoshua.espinosa@yahoo.com**
