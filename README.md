@@ -1,6 +1,6 @@
 <img align='center' src="githubBanner.jpg"/>
 <h1 align='center'>🦖Hi, I'm AJ Espinosa!</h1>
-A 22 year old Front-end Web Developer and Graphic Designer from the Philippines. Studied Bachelor of Science in Computer Science at Cavite State University - Don Severino Delas Alas Campus.
+A 22 year old Front-end Web Developer and Graphic Designer from the Cavite, Philippines. Studied Bachelor of Science in Computer Science at Cavite State University - Don Severino Delas Alas Campus.
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=eyrooonnn&label=Profile%20Views&color=blue&style=for-the-badge"/>
